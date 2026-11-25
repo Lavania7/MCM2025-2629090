@@ -1,0 +1,42 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Our Work}{1}{}%
+\contentsline {section}{\numberline {2}Assumptions and Justifications}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Model Assumptions}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Time model}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Continuous-time cumulative model of throughput at transportation nodes}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Cumulative Quality Model of Project Delivery}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Decision variable modeling}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Multi-indicator cumulative evaluation model}{4}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Cost model}{4}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Negative effect cumulative model}{4}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Comprehensive indicators}{5}{}%
+\contentsline {subsection}{\numberline {2.4}State-based modeling mechanism of influencing factors}{5}{}%
+\contentsline {subsection}{\numberline {2.5}Parameterization of Nominal Transportation Capacity and Cost}{6}{}%
+\contentsline {section}{\numberline {3}Variables and Notations}{7}{}%
+\contentsline {section}{\numberline {4}Problem 1:Modeling and Analysis of Different Transportation Scenarios under Ideal Conditions}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Model expression}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Analysis and comparison of three scenarios}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Recommendations}{9}{}%
+\contentsline {section}{\numberline {5}Problem 2:Factor modeling and transportation scenario analysis under undesirable conditions}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Model Expression}{10}{}%
+\contentsline {subsection}{\numberline {5.2}Visualization Analysis}{11}{}%
+\contentsline {subsection}{\numberline {5.3}Error Analysis}{11}{}%
+\contentsline {subsection}{\numberline {5.4}Recommendations}{13}{}%
+\contentsline {section}{\numberline {6}Problem 3:Modeling and Analysis of Transportation Scenarios Considering Maintaining Water Demand}{13}{}%
+\contentsline {subsection}{\numberline {6.1}Water Consumption Model with Storage and Recycling}{13}{}%
+\contentsline {paragraph}{Water Storage State}{14}{}%
+\contentsline {paragraph}{Water Demand and Recycling}{14}{}%
+\contentsline {paragraph}{External Water Supply}{14}{}%
+\contentsline {paragraph}{Water Storage Dynamics}{14}{}%
+\contentsline {paragraph}{Feasibility and Sustainability}{15}{}%
+\contentsline {subsection}{\numberline {6.2}Visualization analysis}{15}{}%
+\contentsline {subsection}{\numberline {6.3}Error analysis}{15}{}%
+\contentsline {subsection}{\numberline {6.4}Recommendations}{17}{}%
+\contentsline {section}{\numberline {7}Problem 4:Modeling and Analysis of Transportation Scenarios Considering Environmental Impact}{17}{}%
+\contentsline {subsection}{\numberline {7.1}Environmental impact model}{17}{}%
+\contentsline {subsection}{\numberline {7.2}Visualization analysis}{18}{}%
+\contentsline {subsection}{\numberline {7.3}Error analysis}{18}{}%
+\contentsline {subsection}{\numberline {7.4}Recommendations}{19}{}%
+\contentsline {section}{\numberline {8}Conclusion}{19}{}%
